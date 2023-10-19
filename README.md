@@ -35,3 +35,5 @@ Your main tasks will be to use the Geoapify API and the geoViews Python library 
 To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the following steps:
 
 Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
+
+With the help from my fellow classmates and reaching out to the learning assistants on AskBCS, I was able to finish this coding.
